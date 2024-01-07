@@ -1,1 +1,1 @@
-# cricket-score-card
+# simple-calculator-using C
